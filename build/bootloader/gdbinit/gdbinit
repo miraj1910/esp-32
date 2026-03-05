@@ -1,0 +1,2 @@
+source /home/gajera/esp/esp-idf/blink/build/bootloader/gdbinit/symbols
+source /home/gajera/esp/esp-idf/blink/build/bootloader/gdbinit/connect
