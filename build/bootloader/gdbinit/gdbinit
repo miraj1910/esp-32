@@ -1,0 +1,2 @@
+source /home/gajera/esp/pwm_timer/build/bootloader/gdbinit/symbols
+source /home/gajera/esp/pwm_timer/build/bootloader/gdbinit/connect
